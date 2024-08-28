@@ -1,4 +1,4 @@
-Gian Taparan
+# Gian Taparan
 
 Here is a link to a description of [BDA 594](https://catalog.sdsu.edu/preview_course_nopop.php?catoid=9&coid=66292).
 
